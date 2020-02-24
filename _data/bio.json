@@ -1,39 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Konstantinos Smanis",
+    "label": "Software Engineer",
+    "picture": "https://ksmanis.github.io/images/profile.jpg",
+    "email": "konstantinos.smanis@gmail.com",
+    "phone": "",
+    "website": "https://ksmanis.github.io",
+    "summary": "",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Eindhoven",
+      "countryCode": "The Netherlands",
+      "region": "Noord-Brabant"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ksmanis",
+        "url": "https://github.com/ksmanis"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ksmanis",
+        "url": "https://www.linkedin.com/in/ksmanis"
       }
     ]
   },
