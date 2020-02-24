@@ -163,16 +163,34 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Intel® Edge AI Scholarship",
+      "date": "2019-12",
+      "awarder": "Udacity",
+      "summary": "An Intel-sponsored scholarship covering the development and deployment of high-performance computer vision applications at the network edge."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Associate Android Developer Scholarship",
+      "date": "2017-01",
+      "awarder": "Udacity",
+      "summary": "A Google-funded scholarship awarded to 1000 EU residents aspiring to an Associate Android Developer Certification."
+    },
+    {
+      "title": "Andreas Mentzelopoulos Scholarship",
+      "date": "2011-02",
+      "awarder": "Andreas Mentzelopoulos Institution",
+      "summary": "Scholarship awarded to ten local undergraduate students for their performance at the Panhellenic Examinations."
+    },
+    {
+      "title": "\"The Great Moment for Education\" Scholarship",
+      "date": "2010-11",
+      "awarder": "Eurobank Group",
+      "summary": "Award bestowed to the high school graduates who achieved the highest grades among the students of their schools at the Panhellenic Examinations."
+    },
+    {
+      "title": "University Admission Scholarship",
+      "date": "2010-11",
+      "awarder": "State Scholarships Foundation",
+      "summary": "Scholarship awarded to the two undergraduate students of the E&CE Department who achieved the highest grades at the Panhellenic Examinations."
     }
   ],
   "references": [
