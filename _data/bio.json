@@ -73,15 +73,25 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Eindhoven University of Technology",
+      "area": "Software Technology",
+      "studyType": "Professional Doctorate in Engineering (PDEng)",
+      "startDate": "2017-10",
+      "endDate": "2019-10",
+      "gpa": "4/5",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "University of Patras",
+      "area": "Electrical & Computer Engineering",
+      "studyType": "Master of Engineering (MEng)",
+      "startDate": "2010-09",
+      "endDate": "2016-04",
+      "gpa": "7.81/10",
+      "courses": [
+      ]
+    },
   ],
   "work": [
     {
