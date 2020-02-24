@@ -48,26 +48,48 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "JavaScript",
+        "Python",
+        "Shell Scripting",
+        "SQL"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Libraries/Frameworks",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Android",
+        "Django",
+        "KDE",
+        "OpenCV",
+        "OpenGL",
+        "Qt",
+        "TensorFlow"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Git",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "level": "",
+      "keywords": [
+        "Agile",
+        "AWS",
+        "Design Patterns",
+        "UML"
       ]
     }
   ],
