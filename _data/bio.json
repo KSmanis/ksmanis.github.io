@@ -85,27 +85,42 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Thermo Fisher Scientific",
+      "position": "Postgraduate Design Engineer",
+      "website": "https://www.thermofisher.com/",
+      "startDate": "2019-01",
+      "endDate": "2019-10",
+      "summary": "Worked independently on the software design and implementation of the \"Intelligent Microscope II\" research project:",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed a web application with chatbot capabilities using Django, Django REST framework, JavaScript, and AWS.",
+        "Trained deep learning models using TensorFlow, deployed them on the Amazon cloud, and incorporated them into the web application using OpenCV and TensorFlow Serving.",
+        "Containerized the web application using Docker."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Eindhoven University of Technology",
+      "position": "Postgraduate Design Engineer",
+      "website": "https://www.tue.nl/",
+      "startDate": "2017-10",
+      "endDate": "2019-10",
+      "summary": "Worked on a variety of software projects for leading industrial partners:",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Experimented with a broad range of software paradigms from areas such as web applications, embedded systems, and data science.",
+        "Assumed different team roles in order to get acquainted with various aspects of the software development process.",
+        "Collaborated in teams of varying sizes employing Agile methodologies."
+      ]
+    },
+    {
+      "company": "Hellenic Army",
+      "position": "Network & Systems Engineer",
+      "website": "http://www.army.gr/",
+      "startDate": "2016-09",
+      "endDate": "2016-11",
+      "summary": "Fulfilled my military service obligation as a Research & Informatics Corps private at the Hellenic Army IT Support Center (KEPYES):",
+      "highlights": [
+        "Administration and maintenance of the Hellenic Army General Staff network infrastructure",
+        "Configuration of Windows Server (Active Directory)",
+        "Technical support for end users"
       ]
     }
   ],
