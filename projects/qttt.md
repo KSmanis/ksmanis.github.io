@@ -4,7 +4,7 @@ type: project
 image: images/qttt.png
 title: Quantum Tic-Tac-Toe
 permalink: projects/qttt
-date: 2015-09
+date: 2015-09-01
 labels:
   - Android
   - Java
