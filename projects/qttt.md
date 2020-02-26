@@ -37,9 +37,8 @@ Features:
 
 Game rules: [https://en.wikipedia.org/wiki/Quantum_tic-tac-toe#Gameplay](https://en.wikipedia.org/wiki/Quantum_tic-tac-toe#Gameplay)
 
-This app was developed as part of my diploma thesis in the Department of Electrical and Computer Engineering of the University of Patras.
+This app was developed as part of my [diploma thesis](/essays/qttt) in the Department of Electrical and Computer Engineering of the University of Patras.
 
-[<i class="github icon"></i>GitHub](https://github.com/KSmanis/QTTT)<br/>
-[<i class="google play icon"></i>Google Play](https://play.google.com/store/apps/details?id=com.gmail.smanis.konstantinos.qttt)<br/>
-[<i class="book icon"></i>Thesis (Full text)](https://hdl.handle.net/10889/9391)<br/>
-[<i class="book icon"></i>Thesis (Summary)](/documents/MEng%20Thesis%20Summary.pdf)
+<hr/>
+
+[<i class="github icon"></i>GitHub](https://github.com/KSmanis/QTTT)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="google play icon"></i>Google Play](https://play.google.com/store/apps/details?id=com.gmail.smanis.konstantinos.qttt)
