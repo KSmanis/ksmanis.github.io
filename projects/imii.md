@@ -48,3 +48,7 @@ The Intelligent Microscope project highlights the benefits of including state-of
 > *Konstantinos had the challenge to quickly become acquainted with a whole technology stack, get familiar with the code and the architecture of the application, understand the domain, stakeholders and their challenges, and then also think of ways to add and improve! Since Konstantinos had to significantly expand the capabilities of the software, a lot of "plumbing" needed to be done. He successfully redesigned several parts of the code to be better prepared for the expansions needed and applied sound design patterns to those areas. Next to that, he broadened the AI and control part of the microscope. All in all, Konstantinos created a super-cool piece of software that we will have a lot of fun playing with and learning from!*
 
 > **Dr. Remco Schoenmakers, Director Digital Science Technologies, Thermo Fisher Scientific**
+
+<hr/>
+
+[<i class="book icon"></i>Thesis](/essays/imii)
