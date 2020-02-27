@@ -8,25 +8,11 @@
 
 {% for entry in site.data.bio.work %}
   <div class="twelve wide column no-bottom">
-    <p class="ui no-bottom"><b>{{ entry.position }}, {{ entry.company }}</b></p>
-    <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
+    <p class="ui no-bottom"><b>{{ entry.position }}</b></p>
+    <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.company }}</a></p>
   </div>
   <div class="four wide right aligned column no-bottom">
-    <p class="ui no-bottom"><b>
-      {% if entry.startDate %}
-        {{ entry.startDate | slice: 0,4 }}
-      {% endif %}
-      {% if entry.startDate and entry.endDate %}
-        -
-      {% endif %}
-      {% if entry.endDate %}
-        {% if entry.endDate != "Present" %}
-          {{ entry.endDate | slice: 0,4 }}
-         {% else %}
-          {{ entry.endDate }}
-        {% endif %}
-      {% endif %}
-    </b></p>
+    <p class="ui no-bottom"><b>{{ entry.startDate | slice: 5,7 }}/{{ entry.startDate | slice: 0,4 }}–{% if entry.endDate != "Present" %}{{ entry.endDate | slice: 5,7 }}/{{ entry.endDate | slice: 0,4 }}{% else %}{{ entry.endDate }}{% endif %}</b></p>
   </div>
 
   <div style="padding-top: 0px;" class="sixteen wide column no-bottom">

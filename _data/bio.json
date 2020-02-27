@@ -88,20 +88,26 @@
       "institution": "Eindhoven University of Technology",
       "area": "Software Technology",
       "studyType": "Professional Doctorate in Engineering (PDEng)",
+      "website": "https://www.tue.nl/en/",
       "startDate": "2017-10",
       "endDate": "2019-10",
-      "gpa": "4/5",
-      "courses": [
+      "highlights": [
+        "Two-year doctorate-level degree with a focus on applied technological designs according to the direct needs of the high-tech industry",
+        "Thesis: \"Intelligent Microscope II\"",
+        "Grade: 4/5 (graduated with merit)"
       ]
     },
     {
       "institution": "University of Patras",
       "area": "Electrical & Computer Engineering",
       "studyType": "Master of Engineering (MEng)",
+      "website": "https://www.upatras.gr/en/",
       "startDate": "2010-09",
       "endDate": "2016-04",
-      "gpa": "7.81/10",
-      "courses": [
+      "highlights": [
+        "Five-year integrated Master's degree",
+        "Thesis: \"Development of an Android Application for the Game of Quantum Tic-Tac-Toe\"",
+        "Grade: 7.81/10"
       ]
     },
   ],
@@ -122,7 +128,7 @@
     {
       "company": "Eindhoven University of Technology",
       "position": "Postgraduate Design Engineer",
-      "website": "https://www.tue.nl/",
+      "website": "https://www.tue.nl/en/",
       "startDate": "2017-10",
       "endDate": "2019-10",
       "summary": "Worked on a variety of software projects for leading industrial partners:",
@@ -135,7 +141,7 @@
     {
       "company": "Hellenic Army",
       "position": "Network & Systems Engineer",
-      "website": "http://www.army.gr/",
+      "website": "http://www.army.gr/en/",
       "startDate": "2016-09",
       "endDate": "2016-11",
       "summary": "Fulfilled my military service obligation as a Research & Informatics Corps private at the Hellenic Army IT Support Center (KEPYES):",
@@ -146,6 +152,18 @@
       ]
     }
   ],
+  "certifications": [
+    {
+      "title": "Associate Android Developer",
+      "organization": "Google",
+      "website": "https://www.google.com/",
+      "startDate": "2017-10",
+      "endDate": "2020-10",
+      "summary": "The Associate Android Developer Certification is a performance-based exam where developers write real apps to show their skills. This certification corresponds to the skills that an entry-level Android developer is expected to have.",
+      "highlights": [
+      ]
+    }
+  ],
   "volunteer": [
     {
       "organization": "KDE",
@@ -153,7 +171,7 @@
       "position": "Developer",
       "startDate": "2011",
       "endDate": "Present",
-      "summary": "Various contributions to the open-source KDE project including patches, reviews, and bug triaging",
+      "summary": "Various contributions to the open-source KDE project including patches, reviews, and bug triaging.",
       "highlights": [
       ]
     }
@@ -163,30 +181,35 @@
       "title": "Intel® Edge AI Scholarship",
       "date": "2019-12",
       "awarder": "Udacity",
+      "website": "https://www.udacity.com/",
       "summary": "An Intel-sponsored scholarship covering the development and deployment of high-performance computer vision applications at the network edge."
     },
     {
       "title": "Associate Android Developer Scholarship",
       "date": "2017-01",
       "awarder": "Udacity",
+      "website": "https://www.udacity.com/",
       "summary": "A Google-funded scholarship awarded to 1000 EU residents aspiring to an Associate Android Developer Certification."
     },
     {
       "title": "Andreas Mentzelopoulos Scholarship",
       "date": "2011-02",
       "awarder": "Andreas Mentzelopoulos Institution",
+      "website": "https://www.upatras.gr/en/mentzelopoulos",
       "summary": "Scholarship awarded to ten local undergraduate students for their performance at the Panhellenic Examinations."
     },
     {
       "title": "\"The Great Moment for Education\" Scholarship",
       "date": "2010-11",
       "awarder": "Eurobank Group",
+      "website": "https://www.eurobank.gr/en/group",
       "summary": "Award bestowed to the high school graduates who achieved the highest grades among the students of their schools at the Panhellenic Examinations."
     },
     {
       "title": "University Admission Scholarship",
       "date": "2010-11",
       "awarder": "State Scholarships Foundation",
+      "website": "https://www.iky.gr/en/",
       "summary": "Scholarship awarded to the two undergraduate students of the E&CE Department who achieved the highest grades at the Panhellenic Examinations."
     }
   ],
