@@ -21,9 +21,11 @@
         <div class="meta">
           <span class="date">{{ site.data.bio.basics.label }}</span>
         </div>
+        {% if site.data.bio.basics.summary %}
         <div class="left aligned description">
           {{ site.data.bio.basics.summary }}
         </div>
+        {% endif %}
       </div>
       {% if site.data.bio.interests %}
       <div class="center aligned content">
