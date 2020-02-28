@@ -5,24 +5,22 @@
     "picture": "https://ksmanis.github.io/images/profile.jpg",
     "email": "konstantinos.smanis@gmail.com",
     "phone": "",
-    "website": "https://ksmanis.github.io",
+    "website": "",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Eindhoven",
-      "countryCode": "The Netherlands",
-      "region": "Noord-Brabant"
+      "region": "Noord-Brabant",
+      "countryCode": "The Netherlands"
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "ksmanis",
+        "network": "GitHub",
         "url": "https://github.com/ksmanis"
       },
       {
-        "network": "linkedin",
-        "username": "ksmanis",
-        "url": "https://www.linkedin.com/in/ksmanis"
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/ksmanis"
       }
     ]
   },
