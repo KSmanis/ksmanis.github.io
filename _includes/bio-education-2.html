@@ -1,34 +1,27 @@
 <!-- Used by theme-bio-builtin-2 -->
 
+{% if site.data.bio.education %}
 <div class="sixteen wide column no-bottom">
-  <h3 class="ui left aligned header no-bottom">Education</h3>
+  <h3 class="ui header no-bottom">Education</h3>
   <hr style="margin: 0px;">
 </div>
 
 {% for entry in site.data.bio.education %}
-  <div class="twelve wide column no-bottom">
-    <p class="ui no-bottom"><b>{{ entry.studyType }}, {{ entry.area }}</b></p>
-    <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.institution }}</a></p>
-    {% if entry.courses %}
-      <ul style="margin: 0px;">
-        {% for course in entry.courses %}
-          <li>{{ course }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-  </div>
-  <div class="four wide right aligned column no-bottom">
-    <p class="ui no-bottom"><b>{{ entry.startDate | slice: 5,7 }}/{{ entry.startDate | slice: 0,4 }}–{% if entry.endDate != "Present" %}{{ entry.endDate | slice: 5,7 }}/{{ entry.endDate | slice: 0,4 }}{% else %}{{ entry.endDate }}{% endif %}</b></p>
-  </div>
-
+<div class="sixteen wide column no-bottom">
+  <b>{{ entry.studyType }}, {{ entry.area }}<span style="float:right;">{{ entry.startDate | slice: 5,7 }}/{{ entry.startDate | slice: 0,4 }}–{% if entry.endDate != "Present" %}{{ entry.endDate | slice: 5,7 }}/{{ entry.endDate | slice: 0,4 }}{% else %}{{ entry.endDate }}{% endif %}</span></b>
+</div>
+<div class="sixteen wide column no-bottom" style="padding-top: 0px;">
+  <a href="{{ entry.website }}">{{ entry.institution }}</a>
+</div>
+<div class="sixteen wide column no-bottom" style="padding-top: 0px;">
+  <p class="ui no-bottom">{{ entry.summary }}</p>
   {% if entry.highlights %}
-  <div style="padding-top: 0px;" class="sixteen wide column no-bottom">
-    <ul style="margin: 0px;">
-      {% for highlight in entry.highlights %}
-        <li>{{ highlight }}</li>
-      {% endfor %}
-    </ul>
-  </div>
+  <ul style="margin: 0px;">
+    {% for highlight in entry.highlights %}
+    <li>{{ highlight }}</li>
+    {% endfor %}
+  </ul>
   {% endif %}
+</div>
 {% endfor %}
-
+{% endif %}
