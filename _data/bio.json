@@ -5,7 +5,7 @@
     "picture": "https://ksmanis.github.io/images/profile.jpg",
     "email": "konstantinos.smanis@gmail.com",
     "phone": "",
-    "website": "",
+    "website": "https://ksmanis.github.io",
     "location": {
       "address": "",
       "postalCode": "",
@@ -152,11 +152,11 @@
   "certifications": [
     {
       "title": "Associate Android Developer",
-      "organization": "Google",
-      "website": "https://www.google.com/",
+      "organization": "Google Developers",
+      "website": "https://developers.google.com/certification/associate-android-developer",
       "startDate": "2017-10",
       "endDate": "2020-10",
-      "summary": "The Associate Android Developer Certification is a performance-based exam where developers write real apps to show their skills. This certification corresponds to the skills that an entry-level Android developer is expected to have.",
+      "summary": "The Associate Android Developer certification demonstrates the ability to work effectively as an Android developer. It is acquired through a performance-based exam that is designed to test the skills of an entry-level Android developer."
     }
   ],
   "volunteer": [
@@ -205,7 +205,7 @@
       "date": "2010-11",
       "awarder": "State Scholarships Foundation",
       "website": "https://www.iky.gr/en/",
-      "summary": "Scholarship awarded to the two undergraduate students of the E&CE Department who achieved the highest grades at the Panhellenic Examinations."
+      "summary": "Scholarship awarded to the two incoming undergraduate students of the Electrical & Computer Engineering department who achieved the highest grades at the Panhellenic Examinations."
     }
   ]
 }
