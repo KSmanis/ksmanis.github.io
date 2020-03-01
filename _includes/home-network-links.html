@@ -1,9 +1,17 @@
 <!-- Used by theme-home-builtin-1,2,3 -->
 
-{% for profile in site.data.bio.basics.profiles %}
-   <a href="{{ profile.url }}"> <i class="big {{ profile.network | downcase }} icon icon-color"></i> </a>
-{% endfor %}
-
-{% if site.data.bio.basics.email %}
-  <a href="mailto:{{ site.data.bio.basics.email }}"> <i class="big mail square icon icon-color"></i> </a>
+{% if site.data.bio.basics.website != empty %}
+<a href="{{ site.data.bio.basics.website }}"><i class="large circular home icon icon-home"></i></a>
 {% endif %}
+
+{% if site.data.bio.basics.email != empty %}
+<a href="mailto:{{ site.data.bio.basics.email }}"><i class="large circular mail icon icon-home"></i></a>
+{% endif %}
+
+{% if site.data.bio.basics.phone != empty %}
+<a href="tel:{{ site.data.bio.basics.phone }}"><i class="large circular phone icon icon-home"></i></a>
+{% endif %}
+
+{% for profile in site.data.bio.basics.profiles %}
+<a href="{{ profile.url }}"><i class="large circular {{ profile.network | downcase }} icon icon-home"></i></a>
+{% endfor %}

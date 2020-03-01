@@ -15,8 +15,10 @@ body {
   // background: $background-start;
 }
 
-// Customize the home page icon colors
-.icon-color {
-  // color: silver;
+// Customize icon colors and links
+.icon-home, a:link, a:visited {
+  color: #007196;
 }
-
+a:hover {
+  color: darken(#007196, 10%);
+}
