@@ -5,20 +5,46 @@
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 
-// Customize the background color
-body {
-  // background-color: #f2f2f2;;
-}
+$accent-primary: #007196;
+$accent-primary-dark: darken($accent-primary, 10%);
+$accent-secondary: white;
 
-// Customize the menubar color
+// Customize the menubar
 .ui.menu {
-  // background: $background-start;
+  background: $accent-primary;
+
+  a.item {
+    color: $accent-secondary;
+  }
+
+  a.item:hover, a.active.item, a.active.item:hover {
+    background-color: $accent-primary-dark;
+    color: $accent-secondary;
+  }
 }
 
-// Customize icon colors and links
-.icon-home, a:link, a:visited {
-  color: #007196;
+// Customize links and home icons
+a, .icon-home {
+  color: $accent-primary;
+
+  &:hover {
+    color: $accent-primary-dark;
+  }
 }
-a:hover {
-  color: darken(#007196, 10%);
+
+// Customize buttons
+.ui.basic.button {
+  background: $accent-primary !important;
+  color: $accent-secondary !important;
+
+  &:focus, &:hover {
+      background: $accent-primary-dark !important;
+      color: $accent-secondary !important;
+  }
+}
+
+// Customize labels
+.ui.basic.label {
+  background: $accent-secondary;
+  color: $accent-primary-dark;
 }
