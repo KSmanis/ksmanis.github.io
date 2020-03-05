@@ -8,6 +8,12 @@
 $accent-primary: #007196;
 $accent-primary-dark: darken($accent-primary, 10%);
 $accent-secondary: white;
+$accent-secondary-dark: #e1efe6;
+
+// Customize the background color
+body {
+  background-color: $accent-secondary-dark;
+}
 
 // Customize the menubar
 .ui.menu {
@@ -38,8 +44,8 @@ a, .icon-home {
   color: $accent-secondary !important;
 
   &:focus, &:hover {
-      background: $accent-primary-dark !important;
-      color: $accent-secondary !important;
+    background: $accent-primary-dark !important;
+    color: $accent-secondary !important;
   }
 }
 
