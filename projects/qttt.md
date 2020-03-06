@@ -9,6 +9,7 @@ labels:
   - Android
   - Java
   - Artificial Intelligence
+  - MEng
 summary: The first Android app in the Google Play Store implementing an optimal AI for the game of Quantum Tic-Tac-Toe.
 ---
 

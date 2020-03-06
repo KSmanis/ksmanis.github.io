@@ -8,6 +8,7 @@ date: 2015-02-01
 labels:
   - C++
   - OpenGL
+  - MEng
 summary: A realistic simulator of our solar system based on Kepler's laws of planetary motion.
 ---
 
