@@ -15,31 +15,31 @@ summary: A realistic simulator of our solar system based on Kepler's laws of pla
 <div class="ui segment">
   <div class="ui three column grid">
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_1.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_1.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_1.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_1.png"></a>
     </div>
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_2.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_2.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_2.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_2.png"></a>
     </div>
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_3.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_3.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_3.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_3.png"></a>
     </div>
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_4.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_4.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_4.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_4.png"></a>
     </div>
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_5.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_5.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_5.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_5.png"></a>
     </div>
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_6.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_6.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_6.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_6.png"></a>
     </div>
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_7.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_7.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_7.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_7.png"></a>
     </div>
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_8.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_8.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_8.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_8.png"></a>
     </div>
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_9.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/master/screenshots/screenshot_9.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_9.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/solar-system/assets/screenshots/screenshot_9.png"></a>
     </div>
   </div>
 </div>
