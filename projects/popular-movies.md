@@ -14,13 +14,13 @@ summary: An Android movie app that showcases core framework elements.
 <div class="ui segment">
   <div class="ui three column grid">
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/PopularMovies/master/screenshots/screenshot_1.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/PopularMovies/master/screenshots/screenshot_1.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/PopularMovies/assets/screenshots/screenshot_1.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/PopularMovies/assets/screenshots/screenshot_1.png"></a>
     </div>
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/PopularMovies/master/screenshots/screenshot_2.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/PopularMovies/master/screenshots/screenshot_2.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/PopularMovies/assets/screenshots/screenshot_2.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/PopularMovies/assets/screenshots/screenshot_2.png"></a>
     </div>
     <div class="column">
-      <a href="https://raw.githubusercontent.com/KSmanis/PopularMovies/master/screenshots/screenshot_3.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/PopularMovies/master/screenshots/screenshot_3.png"></a>
+      <a href="https://raw.githubusercontent.com/KSmanis/PopularMovies/assets/screenshots/screenshot_3.png"><img class="ui rounded image" src="https://raw.githubusercontent.com/KSmanis/PopularMovies/assets/screenshots/screenshot_3.png"></a>
     </div>
   </div>
 </div>
