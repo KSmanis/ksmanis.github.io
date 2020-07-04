@@ -10,7 +10,7 @@
   <div class="content">
     <span class="header">{{ include.page.title }}</span>
     <div class="meta">
-      <span class="date">{{ include.page.date }}</span>
+      <span class="date">{{ include.page.date | slice: 5,2 }}/{{ include.page.date | slice: 0,4 }}</span>
     </div>
 
     <div class="description">
