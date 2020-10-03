@@ -10,7 +10,7 @@
     <p>{{ include.page.content | markdownify | strip_html | truncatewords: 40 }}</p>
 
     <p>
-    <div style="text-align: center" class="ui mini labels">
+    <div style="text-align: center" class="ui labels">
       {% for label in include.page.labels %}
       <div class="ui basic label">{{ label }}</div>
       {% endfor %}
