@@ -1,17 +1,15 @@
-<!-- Used by theme-bio-builtin-2 -->
-
-{% if site.data.bio.work %}
+{% if site.data.bio.education %}
 <div class="sixteen wide column no-bottom">
-  <h3 class="ui header no-bottom">Professional Experience</h3>
+  <h3 class="ui header no-bottom">Education</h3>
   <hr style="margin: 0px;">
 </div>
 
-{% for entry in site.data.bio.work %}
+{% for entry in site.data.bio.education %}
 <div class="sixteen wide column no-bottom">
-  <b>{{ entry.position }}<span style="float:right;">{{ entry.startDate | slice: 5,7 }}/{{ entry.startDate | slice: 0,4 }}–{% if entry.endDate != "Present" %}{{ entry.endDate | slice: 5,7 }}/{{ entry.endDate | slice: 0,4 }}{% else %}{{ entry.endDate }}{% endif %}</span></b>
+  <b>{{ entry.studyType }}, {{ entry.area }}<span style="float:right;">{{ entry.startDate | slice: 5,7 }}/{{ entry.startDate | slice: 0,4 }}–{% if entry.endDate != "Present" %}{{ entry.endDate | slice: 5,7 }}/{{ entry.endDate | slice: 0,4 }}{% else %}{{ entry.endDate }}{% endif %}</span></b>
 </div>
 <div class="sixteen wide column no-bottom" style="padding-top: 0px;">
-  <a href="{{ entry.website }}">{{ entry.company }}</a>
+  <a href="{{ entry.website }}">{{ entry.institution }}</a>
 </div>
 <div class="sixteen wide column no-bottom" style="padding-top: 0px;">
   <p class="ui no-bottom">{{ entry.summary }}</p>
