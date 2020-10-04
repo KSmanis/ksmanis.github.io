@@ -1,18 +1,17 @@
 <!-- Used by theme-projects-builtin-1a, entire card is the link. -->
 
-
-<a class="card" href="{% if page.projecturl %}{{ page.projecturl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}">
+<div class="card">
   {% if include.page.image %}
-  <div class="image">
+  <a class="image" href="{% if page.projecturl %}{{ page.projecturl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}">
     <img src="{{ site.baseurl }}/{{ include.page.image }}">
-  </div>
+  </a>
   {% endif %}
+
   <div class="content">
-    <span class="header">{{ include.page.title }}</span>
+    <a class="header" href="{% if page.projecturl %}{{ page.projecturl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}">{{ include.page.title }}</a>
     <div class="meta">
       <span class="date">{{ include.page.date | slice: 5,2 }}/{{ include.page.date | slice: 0,4 }}</span>
     </div>
-
     <div class="description">
       {{ include.page.summary }}
     </div>
@@ -25,5 +24,4 @@
       {% endfor %}
     </div>
   </div>
-
-</a>
+</div>
