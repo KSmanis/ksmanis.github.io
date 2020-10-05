@@ -4,7 +4,8 @@ type: project
 image: images/kgrubeditor.png
 title: KGRUBEditor
 permalink: projects/kgrubeditor
-date: 2007-11-01
+startDate: 2007-11-01
+endDate: 2009-07-01
 labels:
   - C++
   - KDE

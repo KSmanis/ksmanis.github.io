@@ -5,7 +5,8 @@ image: images/oce.png
 title: Océ-PDEng Project 2018
 permalink: projects/oce
 projecturl: https://www.tue.nl/en/education/graduate-school/pdeng-software-technology/study-program/final-projects/oce-canon/
-date: 2018-10-01
+startDate: 2018-10-01
+endDate: 2018-12-01
 labels:
   - Python
   - Pandas

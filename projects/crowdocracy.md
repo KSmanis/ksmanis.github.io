@@ -5,7 +5,8 @@ image: images/crowdocracy.png
 title: Crowdocracy
 permalink: projects/crowdocracy
 projecturl: https://medium.com/@TUeindhoven/building-a-platform-for-democratic-decision-making-694e4ea23570
-date: 2017-12-01
+startDate: 2017-12-01
+endDate: 2018-03-01
 labels:
   - Django
   - Python

@@ -4,7 +4,8 @@ type: project
 image: images/imii.png
 title: Intelligent Microscope II
 permalink: projects/imii
-date: 2019-01-01
+startDate: 2019-01-01
+endDate: 2019-10-01
 labels:
   - Django
   - TensorFlow

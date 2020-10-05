@@ -4,7 +4,8 @@ type: project
 image: images/solar-system.png
 title: Solar System Simulator
 permalink: projects/solar-system
-date: 2015-02-01
+startDate: 2015-02-01
+endDate: 2015-05-01
 labels:
   - C++
   - OpenGL

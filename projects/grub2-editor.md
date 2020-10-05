@@ -4,7 +4,8 @@ type: project
 image: images/grub2-editor.png
 title: GRUB2 Editor
 permalink: projects/grub2-editor
-date: 2011-03-01
+startDate: 2011-03-01
+endDate: 2014-04-01
 labels:
   - C++
   - KDE

@@ -4,7 +4,8 @@ type: project
 image: images/qgrubeditor.png
 title: QGRUBEditor
 permalink: projects/qgrubeditor
-date: 2007-05-01
+startDate: 2007-05-01
+endDate: 2007-10-01
 labels:
   - C++
   - Qt

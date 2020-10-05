@@ -5,7 +5,8 @@ image: images/esa.png
 title: ESA-PDEng Project 2018
 permalink: projects/esa
 projecturl: https://www.tue.nl/en/research/aiming-at-the-sun-with-flying-drones/
-date: 2018-05-01
+startDate: 2018-05-01
+endDate: 2018-07-01
 labels:
   - Ada
   - C

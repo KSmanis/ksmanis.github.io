@@ -4,7 +4,8 @@ type: project
 image: images/popular-movies.png
 title: Popular Movies
 permalink: projects/popular-movies
-date: 2017-01-01
+startDate: 2017-01-01
+endDate: 2017-03-01
 labels:
   - Android
   - Java
