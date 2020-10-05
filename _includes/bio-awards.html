@@ -6,7 +6,7 @@
 
 {% for entry in site.data.bio.awards %}
 <div class="sixteen wide column no-bottom">
-  <b>{{ entry.title }}<span style="float:right;">{{ entry.date | slice: 5,7 }}/{{ entry.date | slice: 0,4 }}</span></b>
+  <b>{{ entry.title }}<span style="float:right;">{{ entry.date | slice: 5,2 }}/{{ entry.date | slice: 0,4 }}</span></b>
 </div>
 <div class="sixteen wide column no-bottom" style="padding-top: 0px;">
   <a href="{{ entry.website }}">{{ entry.awarder }}</a>
