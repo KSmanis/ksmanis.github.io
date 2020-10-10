@@ -9,8 +9,6 @@ url: "https://ksmanis.github.io"
 baseurl: ""
 
 # OPTIONAL CHANGES
-# You might want to change the bio page label to something else, such as CV
-bio-page-label: CV
 essay-page-label: Reports
 project-page-label: Projects
 # You might want to change the theme associated with one or more sections of the site.
@@ -18,7 +16,6 @@ project-page-label: Projects
 theme-home: theme-home.html
 theme-projects: theme-projects.html
 theme-essays: theme-essays.html
-theme-bio: theme-bio.html
 
 # Specify the rouge syntax highlighter theme. Pick one from css/rouge.
 rouge-theme: igorpro

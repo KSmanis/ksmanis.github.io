@@ -1,0 +1,16 @@
+{
+  "name": "Konstantinos Smanis",
+  "headline": "Software Engineer",
+  "picture": "/images/profile.jpg",
+  "email": "konstantinos.smanis@gmail.com",
+  "profiles": [
+    {
+      "network": "GitHub",
+      "url": "https://github.com/ksmanis"
+    },
+    {
+      "network": "LinkedIn",
+      "url": "https://linkedin.com/in/ksmanis"
+    }
+  ]
+}
