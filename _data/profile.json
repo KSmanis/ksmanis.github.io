@@ -5,12 +5,12 @@
   "email": "konstantinos.smanis@gmail.com",
   "profiles": [
     {
-      "network": "GitHub",
-      "url": "https://github.com/ksmanis"
-    },
-    {
       "network": "LinkedIn",
       "url": "https://linkedin.com/in/ksmanis"
+    },
+    {
+      "network": "GitHub",
+      "url": "https://github.com/ksmanis"
     }
   ]
 }
