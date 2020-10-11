@@ -1,15 +1,35 @@
 {% if site.data.profile.website %}
-<a href="{{ site.data.profile.website }}"><i class="large circular home icon icon-home"></i></a>
+<a href="{{ site.data.profile.website }}">
+  <span class="fa-stack fa-lg icon-home">
+    <i class="far fa-circle fa-stack-2x"></i>
+    <i class="fas fa-home fa-stack-1x"></i>
+  </span>
+</a>
 {% endif %}
 
 {% if site.data.profile.email %}
-<a href="mailto:{{ site.data.profile.email }}"><i class="large circular mail icon icon-home"></i></a>
+<a href="mailto:{{ site.data.profile.email }}">
+  <span class="fa-stack fa-lg icon-home">
+    <i class="far fa-circle fa-stack-2x"></i>
+    <i class="fas fa-envelope fa-stack-1x"></i>
+  </span>
+</a>
 {% endif %}
 
 {% if site.data.profile.phone %}
-<a href="tel:{{ site.data.profile.phone }}"><i class="large circular phone icon icon-home"></i></a>
+<a href="tel:{{ site.data.profile.phone }}">
+  <span class="fa-stack fa-lg icon-home">
+    <i class="far fa-circle fa-stack-2x"></i>
+    <i class="fas fa-phone fa-stack-1x"></i>
+  </span>
+</a>
 {% endif %}
 
 {% for profile in site.data.profile.profiles %}
-<a href="{{ profile.url }}"><i class="large circular {{ profile.network | downcase }} icon icon-home"></i></a>
+<a href="{{ profile.url }}">
+  <span class="fa-stack fa-lg icon-home">
+    <i class="far fa-circle fa-stack-2x"></i>
+    <i class="fab fa-{{ profile.network | downcase }} fa-stack-1x"></i>
+  </span>
+</a>
 {% endfor %}
